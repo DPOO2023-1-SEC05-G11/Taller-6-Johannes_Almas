@@ -211,7 +211,7 @@ public class PedidoTest {
     }
 
     @Test
-    public void generarTextoFactura_ReturnsCorrectText() {//Tuve que cambiar la visibilidad del método hasta publico para probarlo. (No sé si era necesario probarlo, como practicamente ya es probado en la prueba anterior.)
+    public void testGenerarTextoFactura() {//Tuve que cambiar la visibilidad del método hasta publico para probarlo. (No sé si era necesario probarlo, como practicamente ya es probado en la prueba anterior.)
         Pedido pedido = new Pedido("Johannes", "456", true, 987, new ArrayList<>());
 
         ProductoMenu item1 = new ProductoMenu("Hamburguesa", 20000);
