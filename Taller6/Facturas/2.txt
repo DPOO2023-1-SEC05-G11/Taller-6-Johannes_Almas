@@ -1,0 +1,6 @@
+Cliente: jaejaj
+Dirección: wefiwne
+Comida:
+Total Neto:0
+IVA:0
+TOTAL:0

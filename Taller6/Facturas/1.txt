@@ -1,0 +1,8 @@
+Cliente: Johannes
+Dirección: 123
+Comida:
+Hamburguesa:20000
+Papas:5000
+Total Neto:25000
+IVA:4750
+TOTAL:29750
